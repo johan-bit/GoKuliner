@@ -347,3 +347,11 @@ iframe {
     right: 100PX;
   }
 }
+@media (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+    .gambar {
+        width: 100%; 
+    }
+}
