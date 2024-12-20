@@ -91,9 +91,7 @@
   background: var(--light-orange-color);
   transition: 0.2s ease;
 }
-.home{
-    position: relative;
-}
+
 .home img{
   width: 100%;
   padding: 20px;
